@@ -28,7 +28,7 @@ Step 1: Ensure you have covered all the previous challenges properly and have co
 
 Step 2: Today's goal is to understand the concept of Git Rebase and Git Squash. Go through these resources to understand the concept of Git Rebase and Git Squash as this will be used in the subsequent tasks.
 
-Step 3: Create a new branch in your forked repository by the name of ``challenge8`` and switch to that branch.
+Step 3: Create a new branch in your forked repository by the name of ```challenge8``` and switch to that branch.
 
 Step 4: Add a new file by the name of ``your-github-username-3.md`` and add any details you may want to add to this markdown file and push the change to your forked repository.
 
